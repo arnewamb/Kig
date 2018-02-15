@@ -1,2 +1,10 @@
-Keep It Green 
-App design and code landingspage
+Keep It Green || KIG
+===========
+
+Informatie
+----------
+App to challenge your friends 
+to live green
+
+
+
